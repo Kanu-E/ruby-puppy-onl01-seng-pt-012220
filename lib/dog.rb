@@ -9,5 +9,7 @@ class Dog
     @name = name
    @all << self
  end   
- def sel
+ def self.all
+   
+ end   
 end
