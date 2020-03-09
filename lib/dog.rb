@@ -1,7 +1,7 @@
 # Add your code here
 
 class Dog
- def initialize
+ def initialize (name)
    
 end   
 
